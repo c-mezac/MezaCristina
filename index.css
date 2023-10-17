@@ -1,0 +1,18 @@
+/* 3 - Pour eviter que les colonnes deviennet stacked à cause de la taille trop grande des images, j'ai ajouté le max-width pour les img */
+img {
+  max-width: 100%;
+}
+.card-img-top {
+  max-width: 100%;
+}
+/* 11.a */
+#bg1 {
+  background-image: url("images/bg1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* 11.b */
+#color {
+  color: darkred;
+}
